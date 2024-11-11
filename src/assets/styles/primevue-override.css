@@ -1,0 +1,6 @@
+
+.p-button-text {
+  background: transparent;
+  border-color: transparent;
+  color: var(--slate-900) !important;
+}

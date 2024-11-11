@@ -1,0 +1,20 @@
+:root {
+  --primary-green: #10b981;
+  --green-hover: #d1fae5;
+  --primary-dark: #020617;
+  --dark-hover: #535353;
+  --secondary-color: #6b7280;
+  --background-color: #f9fafb;
+  --slate-0: #ffffff;
+  --slate-50: #f8fafc;
+  --slate-200: #e5e7eb;
+  --slate-500: #6b7280;
+  --slate-600: #4b5563;
+  --slate-700: #374151;
+  --slate-800: #1f2937;
+  --slate-900: #111827;
+  --z-index: 100;
+  --primary-color: var(--primary-green);
+  --border-color: var(--slate-200);
+  --p-button-text-primary-color: var(--slate-800);
+}
